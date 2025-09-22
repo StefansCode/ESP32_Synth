@@ -10,7 +10,7 @@ The hardware layout will be highly inspired by a Teenage Engineering Pocket Oper
 
 
 ## Software
-
+This project will be written in C++ and/or C.
 For the non-synth parts like the SD card reader or the screen, I will use libraries, but for the synth parts themselves I want to work as close to the hardware as possible. I also want to keep the synth part separate so that it can be used in other projects or even be made into a library.
 
 ## Features
